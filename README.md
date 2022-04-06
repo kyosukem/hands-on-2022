@@ -14,7 +14,7 @@ Windowsであれば手間なく実行できるよう、VBScriptによる実装�
 拡張に当たっては、同様のコンセプトとすること。
 
 ## Usage
-main.vbsをダブルクリックで起動。
+calicurate.vbsをダブルクリックで起動。
 
 ## Install
 Windows端末の、任意の場所にGitリポジトリをCloneする。
