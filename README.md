@@ -18,3 +18,5 @@ calicurate.vbsをダブルクリックで起動。
 
 ## Install
 Windows端末の、任意の場所にGitリポジトリをCloneする。
+
+## 接続テスト
